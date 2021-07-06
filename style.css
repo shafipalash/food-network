@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 100px;
+}
+.gold-color{
+    color:gold;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+p{
+    font-size: 25px;
+    font-weight: 0px;
+    color: grey; 
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color:gold;
+    padding: 10px 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 60px;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+}
+.About-Me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
